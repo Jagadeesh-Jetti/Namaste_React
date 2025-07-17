@@ -235,5 +235,3 @@ The `crossorigin` attribute allows the browser to make cross-origin requests (li
 Every DOM update causes reflow and repaint, which is computationally costly. React reduces these by using a **Virtual DOM** and batching updates efficiently.
 
 ---
-
-> 📚 Want to go deeper? Learn how JSX simplifies React code and improves readability.
