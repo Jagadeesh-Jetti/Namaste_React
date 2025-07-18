@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "documenting the journey of namaste react",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagadeesh-Jetti/Namaste_React.git"
+  },
+  "author": "Starky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagadeesh-Jetti/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Jagadeesh-Jetti/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
